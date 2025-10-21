@@ -9,7 +9,7 @@
 ### 🇧🇴 Egresado de Ingeniería de Sistemas · Bolivia  
 **Focus:** Full-Stack (React + Django) · Clean Code · CI/CD · Docker  
 
-> 💡 Open to remote junior roles across LATAM / MERCOSUR.
+> 💡 Open to remote junior roles across AMERICA / LATAM / MERCOSUR / EUROPE /.
 
 ---
 
