@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hola, soy Diego Carlos (carlosapz) 👋
 
-<!--
-**carlosapz/carlosapz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Egresado de Ing. de Sistemas | Full-Stack en formación  
+**Stack:** React • Vite • Node/Express • Python • Django • PostgreSQL • Docker • GitHub Actions
 
-Here are some ideas to get you started:
+## Lo que estoy construyendo
+- **Pandora** (ERP ligero: front + back): autenticación, cotizaciones, dashboard, deploy (Vercel/Render).  
+- **Predicción cambio** (ML simple): pipeline de datos, API en Django, tests con Pytest.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Cómo trabajo
+- Issues y tableros con PRs pequeñas.
+- Commits con [Conventional Commits].
+- CI: lint + tests en cada push (GitHub Actions).
+- Infra reproducible: Docker + `.env.example`.
+
+## Contacto
+[LinkedIn](https://www.linkedin.com/in/diego-rojas-apaza-90b4a3252) · [ORCID](https://orcid.org/0009-0000-8091-6243)
+
+> Abierto a roles junior remotos LATAM / MERCOSUR.
