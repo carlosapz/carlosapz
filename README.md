@@ -14,6 +14,6 @@ Egresado de Ing. de Sistemas | Full-Stack en formación
 - Infra reproducible: Docker + `.env.example`.
 
 ## Contacto
-[LinkedIn](www.linkedin.com/in/diego-carlos-rojas-apaza-90b4a3252) · [ORCID](https://orcid.org/0009-0000-8091-6243)
+[LinkedIn](https://www.linkedin.com/in/diego-carlos-rojas-apaza-90b4a3252) · [ORCID](https://orcid.org/0009-0000-8091-6243)
 
 > Abierto a roles junior remotos LATAM / MERCOSUR.
