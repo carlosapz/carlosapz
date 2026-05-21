@@ -35,20 +35,12 @@ Full-stack web app for managing internal processes.
 
 ---
 
-### 📊 FX Predict (WIP)
-Simple machine learning pipeline + REST API.  
-- ETL + model training in Python  
-- Django API endpoint + Pytest  
-📁 [Repo](https://github.com/carlosapz/pandcompleteproject)
-
----
-
 ### 🎮 Creative & Game Projects
 - **Intro & Sable Laser (After Effects)** — Animación de introducción y efectos de luz.  
   🎥 [Video Demo](https://drive.google.com/) *(link próximamente)*  
   🧩 After Effects + Illustrator + Photoshop  
 
-- **Unity Projects** — prototipos 2D/3D en desarrollo.  
+- **Unity Projects** — prototipos 3D.  
   📁 *(repos y videos en preparación)*  
 
 ---
@@ -84,28 +76,10 @@ Simple machine learning pipeline + REST API.
 
 ---
 
-## 📊 GitHub Analytics
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=carlosapz&show_icons=true&theme=react" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosapz&layout=compact&theme=react" />
-</p>
-
----
-
-## 🛣️ Public Roadmap
-- [ ] Implementar roles y permisos en **Pandora**  
-- [ ] Crear tests de integración end-to-end  
-- [ ] Deploy backend en Render con base de datos gestionada  
-- [ ] Añadir cobertura de tests y badges en CI  
-- [ ] Subir proyectos Unity / Adobe con videos y documentación  
-
----
-
 ## 📫 Contact
 - ✉️ **Email:** [dcarlosrapz@gmail.com](mailto:dcarlosrapz@gmail.com)  
 - 🔗 **LinkedIn:** [Diego Carlos Rojas Apaza](https://www.linkedin.com/in/diego-carlos-rojas-apaza-90b4a3252)  
 - 🐙 **GitHub:** [carlosapz](https://github.com/carlosapz)  
-- 🎥 *(Próximamente portafolio web con demos y videos)*  
 
 ---
 
